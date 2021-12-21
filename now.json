@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://ocko.uzis.cz",
+            "permanent": true
+        }
+    ]
+}
